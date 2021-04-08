@@ -1,0 +1,4 @@
+/home/alan/Code/QtSimple/intro/build-intro_2-Desktop_Qt_6_0_3_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/alan/Code/QtSimple/intro/build-intro_2-Desktop_Qt_6_0_3_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/alan/Code/QtSimple/intro/build-intro_2-Desktop_Qt_6_0_3_GCC_64bit-Debug/CMakeFiles/intro_2.dir
+/home/alan/Code/QtSimple/intro/build-intro_2-Desktop_Qt_6_0_3_GCC_64bit-Debug/CMakeFiles/intro_2_autogen.dir
