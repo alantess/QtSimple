@@ -1,0 +1,81 @@
+{
+	"BUILD_DIR" : "/home/alan/Code/QtSimple/intro/build-intro_3/intro_3_autogen",
+	"CMAKE_BINARY_DIR" : "/home/alan/Code/QtSimple/intro/build-intro_3",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/alan/Code/QtSimple/intro/build-intro_3",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/alan/Code/QtSimple/intro/intro_3",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/alan/Code/QtSimple/intro/intro_3",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/alan/Code/QtSimple/intro/build-intro_3/intro_3_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/alan/Code/QtSimple/intro/build-intro_3/intro_3_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_OPENGL_LIB",
+		"QT_QMLMODELS_LIB",
+		"QT_QML_DEBUG",
+		"QT_QML_LIB",
+		"QT_QUICK_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/alan/Code/QtSimple/intro/build-intro_3",
+		"/home/alan/Code/QtSimple/intro/intro_3",
+		"/home/alan/Qt/6.0.3/gcc_64/include/QtCore",
+		"/home/alan/Qt/6.0.3/gcc_64/include",
+		"/home/alan/Qt/6.0.3/gcc_64/mkspecs/linux-g++",
+		"/home/alan/Qt/6.0.3/gcc_64/include/QtQuick",
+		"/home/alan/Qt/6.0.3/gcc_64/include/QtGui",
+		"/home/alan/Qt/6.0.3/gcc_64/include/QtQml",
+		"/home/alan/Qt/6.0.3/gcc_64/include/QtNetwork",
+		"/home/alan/Qt/6.0.3/gcc_64/include/QtQmlModels",
+		"/home/alan/Qt/6.0.3/gcc_64/include/QtOpenGL",
+		"/usr/include",
+		"/usr/include/c++/10",
+		"/usr/include/x86_64-linux-gnu/c++/10",
+		"/usr/include/c++/10/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/10/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/g++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/alan/Code/QtSimple/intro/build-intro_3/intro_3_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/home/alan/Code/QtSimple/intro/build-intro_3/CMakeFiles/intro_3_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/home/alan/Qt/6.0.3/gcc_64/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"SETTINGS_FILE" : "/home/alan/Code/QtSimple/intro/build-intro_3/CMakeFiles/intro_3_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/alan/Code/QtSimple/intro/intro_3/main.cpp", "MU" ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

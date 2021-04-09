@@ -1,0 +1,4 @@
+/home/alan/Code/QtSimple/intro/build-intro_3/CMakeFiles/rebuild_cache.dir
+/home/alan/Code/QtSimple/intro/build-intro_3/CMakeFiles/edit_cache.dir
+/home/alan/Code/QtSimple/intro/build-intro_3/CMakeFiles/intro_3.dir
+/home/alan/Code/QtSimple/intro/build-intro_3/CMakeFiles/intro_3_autogen.dir
