@@ -8,11 +8,6 @@ Window {
     title: qsTr("Hello World")
 
 
-    Rectangle {
-    color: _background
-    width: 200; height: 299
-
-    }
 
 
     Text {
@@ -34,6 +29,7 @@ Window {
         Rectangle {
             visible: _userData.loggedIn
             anchors.centerIn: parent
+            color: _background
             width: col.width + 50
             height: col.height +50
             border {

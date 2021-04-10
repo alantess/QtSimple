@@ -99,3 +99,9 @@
 10	20	1618093051776072096	signals_autogen/EWIEGA46WW/qrc_qml.cpp	86a4aee76c73cb15
 20	42	1618093051796071459	CMakeFiles/signals.dir/signals_autogen/EWIEGA46WW/qrc_qml.cpp.o	b4a60c41116577d7
 42	333	1618093052088062158	signals	f244e8faf28676e4
+1	9	0	CMakeFiles/signals_autogen	6b2f42b48ec673cc
+1	9	0	signals_autogen/mocs_compilation.cpp	6b2f42b48ec673cc
+10	20	1618093264546244398	signals_autogen/EWIEGA46WW/qrc_qml.cpp	86a4aee76c73cb15
+20	42	1618093264566243928	CMakeFiles/signals.dir/signals_autogen/EWIEGA46WW/qrc_qml.cpp.o	b4a60c41116577d7
+20	1957	1618093266482198960	CMakeFiles/signals.dir/main.cpp.o	b9936bca9112a785
+1957	2245	1618093266766192304	signals	f244e8faf28676e4
