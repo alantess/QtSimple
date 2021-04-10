@@ -1,0 +1,4 @@
+/home/alan/Code/QtSimple/integrate/build-signals/CMakeFiles/rebuild_cache.dir
+/home/alan/Code/QtSimple/integrate/build-signals/CMakeFiles/edit_cache.dir
+/home/alan/Code/QtSimple/integrate/build-signals/CMakeFiles/signals.dir
+/home/alan/Code/QtSimple/integrate/build-signals/CMakeFiles/signals_autogen.dir
