@@ -5,7 +5,11 @@
 	"CMAKE_CURRENT_SOURCE_DIR" : "/home/alan/Code/QtSimple/intro/intro_3",
 	"CMAKE_SOURCE_DIR" : "/home/alan/Code/QtSimple/intro/intro_3",
 	"INCLUDE_DIR" : "/home/alan/Code/QtSimple/intro/build-intro_3/intro_3_autogen/include",
-	"INPUTS" : [ "/home/alan/Code/QtSimple/intro/intro_3/main.qml" ],
+	"INPUTS" : 
+	[
+		"/home/alan/Code/QtSimple/intro/intro_3/Button.qml",
+		"/home/alan/Code/QtSimple/intro/intro_3/main.qml"
+	],
 	"LOCK_FILE" : "/home/alan/Code/QtSimple/intro/build-intro_3/CMakeFiles/intro_3_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
 	"MULTI_CONFIG" : false,
 	"OPTIONS" : [ "-name", "qml" ],

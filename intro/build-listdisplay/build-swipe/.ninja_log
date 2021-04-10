@@ -1,0 +1,8 @@
+# ninja log v5
+0	20	0	CMakeFiles/swipe_autogen	a460f4dd0c680ed9
+0	20	0	swipe_autogen/mocs_compilation.cpp	a460f4dd0c680ed9
+20	31	1618013714752817230	swipe_autogen/EWIEGA46WW/qrc_qml.cpp	99827cc869605528
+31	43	1618013714764817136	CMakeFiles/swipe.dir/swipe_autogen/mocs_compilation.cpp.o	ecaa931a1c9742b6
+32	54	1618013714776817041	CMakeFiles/swipe.dir/swipe_autogen/EWIEGA46WW/qrc_qml.cpp.o	f2c252cb4a699a8
+31	1752	1618013716472803639	CMakeFiles/swipe.dir/main.cpp.o	678bdf93196525b4
+1752	2046	1618013716764801331	swipe	564cb774351523d1

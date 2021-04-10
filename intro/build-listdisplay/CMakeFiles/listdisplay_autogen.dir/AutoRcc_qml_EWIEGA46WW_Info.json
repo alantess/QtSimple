@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/home/alan/Code/QtSimple/intro/build-listdisplay/listdisplay_autogen",
+	"CMAKE_BINARY_DIR" : "/home/alan/Code/QtSimple/intro/build-listdisplay",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/alan/Code/QtSimple/intro/build-listdisplay",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/alan/Code/QtSimple/intro/listdisplay",
+	"CMAKE_SOURCE_DIR" : "/home/alan/Code/QtSimple/intro/listdisplay",
+	"INCLUDE_DIR" : "/home/alan/Code/QtSimple/intro/build-listdisplay/listdisplay_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/alan/Code/QtSimple/intro/listdisplay/qtquickcontrols2.conf",
+		"/home/alan/Code/QtSimple/intro/listdisplay/main.qml"
+	],
+	"LOCK_FILE" : "/home/alan/Code/QtSimple/intro/build-listdisplay/CMakeFiles/listdisplay_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/home/alan/Qt/6.0.3/gcc_64/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/alan/Code/QtSimple/intro/build-listdisplay/CMakeFiles/listdisplay_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/alan/Code/QtSimple/intro/listdisplay/qml.qrc",
+	"VERBOSITY" : 0
+}

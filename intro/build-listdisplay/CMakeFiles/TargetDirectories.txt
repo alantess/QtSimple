@@ -1,0 +1,4 @@
+/home/alan/Code/QtSimple/intro/build-listdisplay/CMakeFiles/rebuild_cache.dir
+/home/alan/Code/QtSimple/intro/build-listdisplay/CMakeFiles/edit_cache.dir
+/home/alan/Code/QtSimple/intro/build-listdisplay/CMakeFiles/listdisplay.dir
+/home/alan/Code/QtSimple/intro/build-listdisplay/CMakeFiles/listdisplay_autogen.dir

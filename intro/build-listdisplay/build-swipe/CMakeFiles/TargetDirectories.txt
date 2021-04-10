@@ -1,0 +1,4 @@
+/home/alan/Code/QtSimple/intro/build-listdisplay/build-swipe/CMakeFiles/rebuild_cache.dir
+/home/alan/Code/QtSimple/intro/build-listdisplay/build-swipe/CMakeFiles/edit_cache.dir
+/home/alan/Code/QtSimple/intro/build-listdisplay/build-swipe/CMakeFiles/swipe.dir
+/home/alan/Code/QtSimple/intro/build-listdisplay/build-swipe/CMakeFiles/swipe_autogen.dir
