@@ -1,0 +1,4 @@
+/home/alan/Code/QtSimple/intro/build-stack/CMakeFiles/rebuild_cache.dir
+/home/alan/Code/QtSimple/intro/build-stack/CMakeFiles/edit_cache.dir
+/home/alan/Code/QtSimple/intro/build-stack/CMakeFiles/stack.dir
+/home/alan/Code/QtSimple/intro/build-stack/CMakeFiles/stack_autogen.dir

@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "/home/alan/Code/QtSimple/intro/build-stack/stack_autogen",
+	"CMAKE_BINARY_DIR" : "/home/alan/Code/QtSimple/intro/build-stack",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/alan/Code/QtSimple/intro/build-stack",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/alan/Code/QtSimple/intro/stack",
+	"CMAKE_SOURCE_DIR" : "/home/alan/Code/QtSimple/intro/stack",
+	"INCLUDE_DIR" : "/home/alan/Code/QtSimple/intro/build-stack/stack_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/alan/Code/QtSimple/intro/stack/qtquickcontrols2.conf",
+		"/home/alan/Code/QtSimple/intro/stack/HomeForm.ui.qml",
+		"/home/alan/Code/QtSimple/intro/stack/main.qml",
+		"/home/alan/Code/QtSimple/intro/stack/Page2Form.ui.qml",
+		"/home/alan/Code/QtSimple/intro/stack/Page1Form.ui.qml"
+	],
+	"LOCK_FILE" : "/home/alan/Code/QtSimple/intro/build-stack/CMakeFiles/stack_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/home/alan/Qt/6.0.3/gcc_64/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/alan/Code/QtSimple/intro/build-stack/CMakeFiles/stack_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/alan/Code/QtSimple/intro/stack/qml.qrc",
+	"VERBOSITY" : 0
+}

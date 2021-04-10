@@ -1,0 +1,8 @@
+# ninja log v5
+0	18	0	CMakeFiles/stack_autogen	f1b979ebc2255ec7
+0	18	0	stack_autogen/mocs_compilation.cpp	f1b979ebc2255ec7
+18	28	1618014186757314097	stack_autogen/EWIEGA46WW/qrc_qml.cpp	fac71514e7b2aead
+28	40	1618014186769314012	CMakeFiles/stack.dir/stack_autogen/mocs_compilation.cpp.o	db90127812028b47
+29	59	1618014186789313871	CMakeFiles/stack.dir/stack_autogen/EWIEGA46WW/qrc_qml.cpp.o	7e639b9e8b166ee4
+29	1758	1618014188485301889	CMakeFiles/stack.dir/main.cpp.o	ac6e8517ad805e3c
+1758	2044	1618014188769299882	stack	e9eeaf3b64c3c1e9

@@ -1,5 +1,6 @@
 # QtSimple
-Qt Tutorials for Newbies.
+Qt Quick Tutorials for Newbies.
+
 
 # Get Started
   ```sh

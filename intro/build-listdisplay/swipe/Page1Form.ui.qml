@@ -13,6 +13,14 @@ Page {
 
     Label {
         text: qsTr("You are on Page 1.")
+        color: "red"
         anchors.centerIn: parent
+    }
+
+
+    Text {
+        id: tet
+        text: qsTr("Hello")
+        anchors.top: parent.top
     }
 }
